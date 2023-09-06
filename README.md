@@ -47,4 +47,3 @@ python evaluate.py --model_path path_to_trained_model.h5
 
 --- 
 
-Feel free to customize this shorter README as needed for your project.
